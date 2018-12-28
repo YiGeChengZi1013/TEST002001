@@ -2,7 +2,6 @@
 
 import re
 
-import urllib
 import urllib.parse
 import os
 
